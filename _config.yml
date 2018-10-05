@@ -1,0 +1,13 @@
+# General Jekyll Config
+highlighter: rogue
+name: ImLong's Blog
+description: Chronicles of my adventures in coding and open sources
+url:"longpro2000.github.io"
+lsi:false
+
+exclude: [LINCENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+# Build settings
+permalink: pretty
+markdown: kramdown
+theme: minima
